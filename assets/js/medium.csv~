@@ -1,0 +1,52 @@
+title,subtitle,published,read,published_on
+4 Reasons to Use Kubernetes in the Serverless Era,Is serverless a replacement for Kubernetes?,Aug-13,4 min read,In Better Programming
+Tips for Rightsizing Your Kubernetes Cluster,A few large nodes or many small nodes?,Aug-10,8 min read,In Better Programming
+Designing Highly Available Container Applications Kubernetes,With pod disruptibudgets and anti-affinity,Aug-04,5 min read,In Better Programming
+My Experience With the CNCF Certified Kubernetes Administrator Exam,Tips for cracking the Certified Kubernetes Administrator Exam,Jul-31,9 min read,In The Innovation
+Awesome Kubernetes Command-Line Hacks,Tips for you to kubectl like a pro,Jul-27,4 min read,In Better Programming
+Choose the Right Kubernetes Hosting Solution,Things to consider while selecting a Kubernetes platform,Jul-24,6 min read,In Better Programming
+Secure Your Kubernetes Cluster With Pod Security Policies,Pod security best practices with a hands-exercise,Jul-16,6 min read,In Better Programming
+Monitor Your Kubernetes Cluster With Prometheus and Grafana,Using Helm to set up Prometheus and Grafana your Kubernetes cluster,Jul-14,5 min read,In Better Programming
+How to Save Money Google Cloud Platform,Use Cloud Scheduler to start and stop Compute Engine Instances automatically,Jul-03,5 min read,In Better Programming
+Managing Multiple Environments in Terraform,How to use Terraform workspaces to manage multiple states,Jul-01,5 min read,In Better Programming
+Effective Ways of Managing Your Terraform State,Collaboratiin your team with remote-state back ends,Jun-26,5 min read,In Better Programming
+Choosing the Right Git Branching Strategy for Your Team,Analysis of Multiple Branching Strategies with a Flowchart,Jun-25,6 min read,In Dev Genius
+Monitor your Kubernetes Resources With kubewatch,"Watch Kubernetes events,  and send notifications to Slack",Jun-24,3 min read,In Better Programming
+Kubernetes Services over HTTPS With Istio’s Secure Gateways,Expose your microservices over TLS to the external world,Jun-19,5 min read,In Better Programming
+Encrypting Kubernetes Secrets With Sealed Secrets,How to store your Kubernetes secrets in Git,Jun-15,7 min read,In Better Programming
+How to Harden Your Containers With Distroless Docker Images,Use distroless images to secure your containers Kubernetes,Jun-04,6 min read,In Better Programming
+How to Harden Your Kubernetes Cluster With Kube Bench,Comprehensive CIS benchmark testing for your Kubernetes cluster,Jun-03,5 min read,In Better Programming
+Demystifying DevOps,DevOps is no longer an option — either you adopt it or you lose,Jun-03,7 min read,In Better Programming
+Locality-Based Load Balancing in Kubernetes Using Istio,Route requests within your service mesh using geographic locatito improve performance and save money,Jun-01,6 min read,In Better Programming
+How to Validate Your Kubernetes Cluster With Sonobuoy,Run comprehensive conformance testing for your Kubernetes cluster,May-28,4 min read,In Better Programming
+How to Build Containers in a Kubernetes Cluster with Kaniko,Automate container builds within K8s without a Docker daemon,May-27,6 min read,In Better Programming
+How to Continuously Deliver Kubernetes Applications With Flux CD,GitOps for your Kubernetes workloads,May-26,7 min read,In Better Programming
+Istio Service Mesh Multi-Cluster Kubernetes Environment,Manage microservices running multiple Kubernetes clusters in a single service mesh,May-25,6 min read,In Better Programming
+Traffic Mirroring in Kubernetes Using Istio,How to run robust operational acceptance tests for your Kubernetes microservices,May-22,6 min read,In Better Programming
+How to Authorize Non-Kubernetes Clients With Istio Your K8s Cluster,Use JSON web tokens to authorize clients to interact with your Kubernetes microservices using Istio,May-20,5 min read,In Better Programming
+Enable Access Control Between Your Kubernetes Workloads Using Istio,A guide to Istio authorizatibetween your microservices within Kubernetes,May-19,4 min read,In Better Programming
+Enable Mutual TLS AuthenticatiBetween Your Kubernetes Workloads Using Istio,A guide to Istio authenticatiand mutual TLS between your microservices Kubernetes,May-13,5 min read,In Better Programming
+How to Harden Your Microservices Kubernetes Using Istio,How Istio implements security for your microservices,May-12,6 min read,In Better Programming
+How to Visualise Your Istio Service Mesh Kubernetes,Use Prometheus and Grafana to visualise the metrics of your microservices,May-08,5 min read,In Better Programming
+How to Use Istio to Inject Faults to Troubleshoot Microservices in Kubernetes,Improve your microservices running Kubernetes,May-04,6 min read,In Better Programming
+How to Manage Traffic Using Istio Kubernetes,Insights into request routing  traffic splitting and user identity-based routing using Istio Kubernetes,Apr-30,6 min read,In Better Programming
+Getting Started With Istio Kubernetes,Install and configure Istio within your Kubernetes cluster,Apr-28,7 min read,In Better Programming
+How Istio Works Behind the Scenes Kubernetes,Insights into Istio architecture and how its various moving parts manage microservices in Kubernetes,Apr-27,7 min read,In Better Programming
+How to CI/CD Google Cloud Platform,"Using Cloud Build, Google Container Registry, and Cloud Run to continuously build and deploy a simple Java application",Apr-27,5 min read,In The Startup
+How Corporate Parasites thrive in the workplace,Ways to identify and weed out PerceptiManagement from your organisation,Apr-25,6 min read,In Data Driven Investor
+How to Manage Microservices Kubernetes With Istio,How to implement DevSecOps microservices architecture with a service mesh,Apr-24,6 min read,In Better Programming
+How to Scale Kubernetes Applications Using Custom Metrics,Scale your containers using custom Stackdriver metrics that are important to your business,Apr-22,8 min read,In Better Programming
+How to Secure Kubernetes Using Network Policies,An illustrated guide to Kubernetes network policies,Apr-22,9 min read,In Better Programming
+How to Discover non-Kubernetes applications using Kubernetes Service Discovery,How to use Ingress Resources to discover Non-Kubernetes services using NGINX and BIND DNS,Apr-21,7 min read,
+How to Secure Kubernetes the Easy Way,How to use Terraform and Kubeadm to bootstrap your Kubernetes cluster,Apr-21,9 min read,In The Startup
+How to utilise X509 Client Certificates & RBAC to secure Kubernetes,How We Effectively Managed Access to Our Kubernetes Cluster,Apr-20,10 min read,In The Startup
+How to Create a Highly Available NGINX Load Balancer Google Cloud Platform,"Highly Available NGINX Load Balancer Google Cloud using Pacemaker, Corosync and Static IPs CentOS 7",Apr-17,10 min read,In Level Up Coding
+How to Secure Kubernetes the Hard Way,An adaptatiof Kelsy Hightower’s “Kubernetes the Hard Way” using Terraform to create a hardened cluster CentOS running Docker,Apr-15,15 min read,In Better Programming
+How to Harden Your Kubernetes Cluster for Production,Best practices for securing your Kubernetes cluster in production,Apr-09,9 min read,In Better Programming
+How to Terraform With Jenkins and Slack Google’s Cloud Platform,An illustrated guide to Hashicorp’s Terraform,Apr-06,10 min read,In Better Programming
+How We Scaled Jenkins in Less Than a Day,Scale your Jenkins agents using Kubernetes,Apr-02,8 min read,In Better Programming
+"Don't Do Agile,  Be Agile",Why Scrum is not the silver bullet,Mar-31,6 min read,In Better Programming
+How to Helm With Sonatype Nexus,Using Sonatype Nexus as a Helm repository for CI/CD,Mar-28,7 min read,In Better Programming
+Kubernetes For Beginners,"Kubernetes, for a more general audience",Mar-24,8 min read,In Better Programming
+Demystifying Kubernetes Objects,"Understanding the what, the why, and the how",Mar-23,15 min read,In Better Programming
+Using the Azure Kubernetes Provider in a VM Based K8S Cluster,How to Hook in the Azure Cloud Provider for Persistent Volume Claims and Load Balancers with your K8S cluster,Mar-22,4 min read,In The Startup

@@ -18,9 +18,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
     - name: Generate json file
       id: generate_json
       run: python assets/js/generate_blogs.py

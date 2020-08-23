@@ -17,6 +17,7 @@ for row in posts.itertuples(index=True, name='Pandas'):
     list_of_posts.append(post)
 
 posts_json = json.dumps(list_of_posts)
-posts_file = open("posts.json", "w")
-posts_file.write(posts_json)
+posts_js = "var myObj = JSON.parse('"+posts_json+"');"
+posts_file = open("posts.js", "w")
+posts_file.write(posts_js)
 posts_file.close()

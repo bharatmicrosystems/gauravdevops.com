@@ -6,7 +6,7 @@ import time
 import pandas as pd
 
 # Read the csv and assign to a schedule dataframe
-posts = pd.read_csv('medium.csv', encoding = "UTF-8")
+posts = pd.read_csv('medium.csv', encoding="UTF-8")
 
 # Iterate over the dataframe rows and schedule jobs initially
 job_id = 1

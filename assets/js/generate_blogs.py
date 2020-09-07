@@ -11,13 +11,12 @@ posts = pd.read_csv('medium.csv', encoding="UTF-8")
 # Iterate over the dataframe rows and schedule jobs initially
 job_id = 1
 list_of_posts = []
+txt = ""
 for row in posts.itertuples(index=True, name='Pandas'):
-    post = {"title": row.title, "subtitle": row.subtitle, "description": row.description,
-            "image_id": row.image_id, "link": row.link, "published": row.published, "read": row.read, "published_on": row.published_on}
-    list_of_posts.append(post)
+    txt = txt + "<div class=\"item mb-5\">  <div class=\"media\">      <div class=\"media-body\">      <h3 class=\"title mb-1\"><a href=\"" + row.link + "\" target=\"_blank\">" + row.title + "</a></h3> <div class=\"meta mb-1\"><span class=\"date\">Published " + row.published + "</span><span class=\"time\">" + row.read + "</span></div>           <div class=\"intro\"><p>" + row.subtitle + "</p><p><img class=\"mr-3 img-fluid d-none d-md-flex\" src=\"https://miro.medium.com/max/875/" + row.image_id + "\" alt=\"image\"></p>" + row.description + "</div>      <a class=\"more-link\" href=\"" + row.link + "\" target=\"_blank\">Read more &rarr;</a>    </div><!--//media-body-->  </div><!--//media--></div><!--//item-->"
 
-posts_json = json.dumps(list_of_posts)
-posts_js = "var myObj = JSON.parse('"+posts_json+"');"
-posts_file = open("posts.js", "w")
-posts_file.write(posts_js)
+with open('index.template', 'r') as file:
+    data = file.read().replace('<div class="container" id="blog_container">', '<div class="container" id="blog_container">'+txt)
+posts_file = open("../../index.html", "wb")
+posts_file.write(data.encode('utf8'))
 posts_file.close()

@@ -14,8 +14,220 @@
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>
   </url>
-  <url>
-    <loc>https://gauravdevops.com/blog.html</loc>
+    <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fsave-up-to-50-of-your-kubernetes-costs-with-preemptible-instances-bdade99ccd39%3Fsource%3Dfriends_link%26sk%3Dbcc19f368de8b44c0ae67bbcfed2a255</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fgo-serverless-on-kubernetes-with-knative-b3aff3dbdffa%3Fsource%3Dfriends_link%26sk%3Dda77070cd84e7cb75146db45ec6fa29a</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fmeasuring-site-reliability-9745617d206c%3Fsource%3Dfriends_link%26sk%3De3eff22fe0dab55d23e80193f6bde0ff</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2F4-reasons-to-use-kubernetes-in-the-serverless-era-cf77ea3b018b%3Fsource%3Dfriends_link%26sk%3D55f13f50a43bd3b756a54535721adca2</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Ftips-for-rightsizing-your-kubernetes-cluster-e0a8f1093d8d%3Fsource%3Dfriends_link%26sk%3D63d98a3e914298448e4f684f54efa51b</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fdesigning-highly-available-container-applications-on-kubernetes-50455716b76f%3Fsource%3Dfriends_link%26sk%3D965d54623f26d256a0fdae5724befaa2</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=the-innovation%2Fmy-experience-with-the-cncf-certified-kubernetes-administrator-exam-12247d87baf2%3Fsource%3Dfriends_link%26sk%3Da93428b351503093070df640fcafb921</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fawesome-kubernetes-command-line-hacks-8bd3604e394f%3Fsource%3Dfriends_link%26sk%3D92409252acb8b8c36a1d8d4752c104b7</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fchoose-the-right-kubernetes-hosting-solution-a842878fc594%3Fsource%3Dfriends_link%26sk%3D791763e4a919db5f474920a1c2e0a0d4</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fsecure-your-kubernetes-cluster-with-pod-security-policies-bd511ec6d034%3Fsource%3Dfriends_link%26sk%3Df61773fbd4280debff4fd876d9640957</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fmonitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59%3Fsource%3Dfriends_link%26sk%3D9da23c0650a7cf4db977bb859bcf0e7f</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-save-money-on-google-cloud-platform-22bf4c302d32%3Fsource%3Dfriends_link%26sk%3D13911a9a97a7d7896658275cb8975703</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fmanaging-multiple-environments-in-terraform-5b389da3a2ef%3Fsource%3Dfriends_link%26sk%3Dc89327c9a41b6ef94702dea62400e3fc</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Feffective-ways-of-managing-your-terraform-state-44bc53043d5%3Fsource%3Dfriends_link%26sk%3Da2f457764e1cc148e6e5e568ad851965</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=dev-genius%2Fchoosing-the-right-git-branching-strategy-for-your-team-2a53144fcbdb%3Fsource%3Dfriends_link%26sk%3Dd60b50a001d5fcd4a2b43a0ef861b615</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fmonitor-your-kubernetes-resources-with-kubewatch-d40ecf420f28%3Fsource%3Dfriends_link%26sk%3D71e16255d194a3532e845a2a258a3b10</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fkubernetes-services-over-https-with-istios-secure-gateways-210b2ce91b71%3Fsource%3Dfriends_link%26sk%3D9b3dfbacb57239c1c6e7230273dd556e</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fencrypting-kubernetes-secrets-with-sealed-secrets-fe363149a211%3Fsource%3Dfriends_link%26sk%3Dc8be1a52530b09adc8983029359d0169</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-harden-your-containers-with-distroless-docker-images-c2abd7c71fdb%3Fsource%3Dfriends_link%26sk%3Df52e1261a4590b11e1a828f49b6fa3e5</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-harden-your-kubernetes-cluster-with-kube-bench-fae71eb24d8%3Fsource%3Dfriends_link%26sk%3D42775f1c3a29862239dfc10b2605d31e</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fdemystifying-devops-840aa292054a%3Fsource%3Dfriends_link%26sk%3D4ab29123a559742f16a854ed05623350</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Flocality-based-load-balancing-in-kubernetes-using-istio-a4a9defa05d3%3Fsource%3Dfriends_link%26sk%3Dea300c2f039dc8f30c690f01dae46327</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-validate-your-kubernetes-cluster-with-sonobuoy-c91b282908fe%3Fsource%3Dfriends_link%26sk%3D62e7ec05fa19a24411e7979ffe121dcf</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-build-containers-in-a-kubernetes-cluster-with-kaniko-2d01cd3242a7%3Fsource%3Dfriends_link%26sk%3Dfc09a060bcaaca0042ce6c7a51f20ddf</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-continuously-deliver-kubernetes-applications-with-flux-cd-502e4fb8ccfe%3Fsource%3Dfriends_link%26sk%3Dbceb59badf7e71a216fb597770900bfd</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fistio-service-mesh-on-multi-cluster-kubernetes-environment-518094cdcdc4%3Fsource%3Dfriends_link%26sk%3D22c02e803a5ef1c3473a79f50dfbec49</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Ftraffic-mirroring-in-kubernetes-using-istio-dad0976b4e1%3Fsource%3Dfriends_link%26sk%3D04be0e97bc4974592470598e7c5b5f78</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-authorize-non-kubernetes-clients-with-istio-on-your-k8s-cluster-8a90fe95b137%3Fsource%3Dfriends_link%26sk%3Df44c88d1dae42bb7faa9b52f10f92ebe</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fenable-access-control-between-your-kubernetes-workloads-using-istio-cf72a9f9bd5e%3Fsource%3Dfriends_link%26sk%3Da5c9ddc4eeeccf7e62a2551014ef4803</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fenable-mutual-tls-authentication-between-your-kubernetes-workloads-using-istio-65338c8adf82%3Fsource%3Dfriends_link%26sk%3D63890188e7ae48e7576e5ce66c10b57d</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-harden-your-microservices-on-kubernetes-using-istio-29c23dd90670%3Fsource%3Dfriends_link%26sk%3D879a41beb17056e833a9a287212f4b9a</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-visualise-your-istio-service-mesh-on-kubernetes-209c7b439a41%3Fsource%3Dfriends_link%26sk%3D30a1f6db7c82a1f3656911fa19f227bd</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-use-istio-to-inject-faults-to-troubleshoot-microservices-in-kubernetes-108250a85abc%3Fsource%3Dfriends_link%26sk%3D6fea51561af37fe93d2b35616ae8e15c</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-manage-traffic-using-istio-on-kubernetes-cd4b96e00b57%3Fsource%3Dfriends_link%26sk%3D725bf02f01c5fdf9e0a54f88909cd268</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fgetting-started-with-istio-on-kubernetes-e582800121ea%3Fsource%3Dfriends_link%26sk%3D3a3c0b65a95692c3c5edbd0ea650b284</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-istio-works-behind-the-scenes-on-kubernetes-aeb8003f2cb5%3Fsource%3Dfriends_link%26sk%3D9230c6269c3dde98c356a27603b00e37</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=swlh%2Fhow-to-ci-cd-on-google-cloud-platform-1e631cded335%3Fsource%3Dfriends_link%26sk%3D07d3d86dffd8c45ef9bfa64914cd71cf</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=datadriveninvestor%2Fhow-corporate-parasites-thrive-in-the-workplace-5368b446f244%3Fsource%3Dfriends_link%26sk%3D291ccdd302edefe7e0a23261f58336f4</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-manage-microservices-on-kubernetes-with-istio-c25e97a60a59%3Fsource%3Dfriends_link%26sk%3D2477d2ededc816e5309ab1778599b8e1</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-scale-kubernetes-applications-using-custom-metrics-6cf02571c5e4%3Fsource%3Dfriends_link%26sk%3D11820cc5bd287f6650513bbff59980d1</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-secure-kubernetes-using-network-policies-bbb940909364%3Fsource%3Dfriends_link%26sk%3D1b817da088a6785fe6390edc349a24d4</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=%40bharatmicrosystems%2Fservice-discovery-of-non-kubernetes-workloads-from-kubernetes-and-vice-versa-84a575ec4d8%3Fsource%3Dfriends_link%26sk%3Dde18ab5c72d4302c1634884230040213</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=swlh%2Fhow-to-secure-kubernetes-the-easy-way-f37052139280%3Fsource%3Dfriends_link%26sk%3D869004b4fd8383333efa0eb8186206da</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=swlh%2Fhow-we-effectively-managed-access-to-our-kubernetes-cluster-38821cf24d57%3Fsource%3Dfriends_link%26sk%3D2aef2012888303820ca8f4c7ca012022</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-to-create-a-highly-available-nginx-load-balancer-on-google-cloud-platform-9ebc8b6abb09%3Fsource%3Dfriends_link%26sk%3D6834d9206af17d039b16005a2a16dbf8</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-secure-kubernetes-the-hard-way-9b421b36aba4%3Fsource%3Dfriends_link%26sk%3Da291da810bf315aa190b9fe808bd7204</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-harden-your-kubernetes-cluster-for-production-7e47990efc2a%3Fsource%3Dfriends_link%26sk%3D35a2a2d728199165b27cb7e05551e287</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-terraform-with-jenkins-and-slack-on-googles-cloud-platform-56c5e8b3aeeb%3Fsource%3Dfriends_link%26sk%3Dbcaf32a62085e1ff98d44e87eb9d9c85</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-we-scaled-jenkins-in-less-than-a-day-ccbcada8e4a4%3Fsource%3Dfriends_link%26sk%3D90a2583b6bf873300986b681512652b4</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fdont-do-agile-be-agile-5c8832c43181%3Fsource%3Dfriends_link%26sk%3D7c469587388ecf4b5c88c70d63042f12</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-helm-with-sonatype-nexus-c49c98324a19%3Fsource%3Dfriends_link%26sk%3Df0512e18a9258e8dd68d90e269036293</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fkubernetes-for-beginners-b3042e01ccff%3Fsource%3Dfriends_link%26sk%3D196e97d92afc3e7623499783b50bfbc0</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fdemystifying-kubernetes-objects-understanding-the-what-why-and-how-18b42c9ca9c2%3Fsource%3Dfriends_link%26sk%3D137ff6f613c571132e76da88925ecd5b</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=swlh%2Fusing-the-azure-kubernetes-provider-in-a-vm-based-k8s-cluster-fdf941b86d69%3Fsource%3Dfriends_link%26sk%3D4b5a6616991688e1ce211f1b7ac3ac0e</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>
   </url>

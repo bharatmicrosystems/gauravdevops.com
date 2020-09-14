@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fhow-to-run-highly-available-kafka-on-kubernetes-a1824db8a3e2%3Fsource%3Dfriends_link%26sk%3D31ac2c8f3fa0be4877717a61e7d7dcfc</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fsave-up-to-50-of-your-kubernetes-costs-with-preemptible-instances-bdade99ccd39%3Fsource%3Dfriends_link%26sk%3Dbcc19f368de8b44c0ae67bbcfed2a255</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

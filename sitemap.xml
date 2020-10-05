@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Faccelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82%3Fsource%3Dfriends_link%26sk%3De04acf54a46da6fd38272c968ebf2690</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fshould-you-get-kubernetes-certified-67a3fbe7574c%3Fsource%3Dfriends_link%26sk%3D010bdfc7c30ab65342d15d6036689c0f</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

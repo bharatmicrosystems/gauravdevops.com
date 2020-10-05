@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fshould-you-get-kubernetes-certified-67a3fbe7574c%3Fsource%3Dfriends_link%26sk%3D010bdfc7c30ab65342d15d6036689c0f</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Funderstanding-vertical-pod-autoscaling-in-kubernetes-6d53e6d96ef3%3Fsource%3Dfriends_link%26sk%3Dfd04861a4443fb8210df713d0d6d64d5</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

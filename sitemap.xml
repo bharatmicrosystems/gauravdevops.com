@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Funderstanding-kubernetes-deployment-strategies-12535c3cb379%3Fsource%3Dfriends_link%26sk%3D9fe0a0cb2975afdb4fd6c006856793e5</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Faccelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82%3Fsource%3Dfriends_link%26sk%3De04acf54a46da6fd38272c968ebf2690</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

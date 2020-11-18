@@ -15,6 +15,14 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Funderstanding-kubernetes-multi-container-pod-patterns-577f74690aee%3Fsource%3Dfriends_link%26sk%3D5d63a9ec5815a871bef492cbad066262</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fpolicy-as-code-on-kubernetes-with-kyverno-b144749f144%3Fsource%3Dfriends_link%26sk%3D8226eb516fcc1f10289293684d77fbd8</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fkubernetes-security-with-falco-2eb060d3ae7d%3Fsource%3Dfriends_link%26sk%3D5103ca87ebf229f639cd060d10a16fa6</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

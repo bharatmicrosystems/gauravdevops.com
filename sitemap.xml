@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fkubernetes-is-deprecating-docker-8a9f7566fbca%3Fsource%3Dfriends_link%26sk%3Df32bd1b7affc104e9c08a706b2f24439</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Funderstanding-kubernetes-multi-container-pod-patterns-577f74690aee%3Fsource%3Dfriends_link%26sk%3D5d63a9ec5815a871bef492cbad066262</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fdocker-container-security-with-anchore-grype-6913bc926499%3Fsource%3Dfriends_link%26sk%3D8f8751a73829239fd22f5fcea22e7884</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=better-programming%2Fredefine-your-cloud-journey-with-terraform-and-packer-ca65e0f04730%3Fsource%3Dfriends_link%26sk%3De6650b714366a03a0da0e3b4dfabd575</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

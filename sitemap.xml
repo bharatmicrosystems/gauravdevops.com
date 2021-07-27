@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fhow-to-set-up-argo-cd-with-terraform-to-implement-pure-gitops-d5a1d797926a%3Fsource%3Dfriends_link%26sk%3D8ae9397bde02face0facf7cf08a22818</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fa-first-look-at-google-kubernetes-engine-autopilot-8c8faa947609%3Fsource%3Dfriends_link%26sk%3De3eb2f740d5695b66a5f0fe896a13d3d</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

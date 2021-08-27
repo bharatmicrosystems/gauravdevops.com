@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fsecure-your-kubernetes-cluster-with-seccomp-9403ecf831b2%3Fsource%3Dfriends_link%26sk%3Df5183fe2998dda59424557d1652c9f45</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fgetting-started-with-kustomize-e9a84c4c2f97%3Fsource%3Dfriends_link%26sk%3D70abe2c6e0b00a0d70a13db6674cf6c9</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>

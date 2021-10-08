@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url>
     <url>
+    <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fusing-nfs-persistent-volumes-across-pods-in-readwritemany-mode-357a41eed6c9%3Fsk%3D32e26fc51860a25316a4889c882f7af2</loc>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+  </url>  <url>
     <loc>https://gauravdevops.com/blog.html?slug=https%3A%2F%2Fbetterprogramming.pub%2Fsecure-your-kubernetes-cluster-with-apparmor-e4bb9fef37e1%3Fsk%3D0c7ff90b00d3ac5aae86fb65ffa6f898</loc>
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>
